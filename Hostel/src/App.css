@@ -3,6 +3,7 @@
 body{
     font-family: "Poppins", sans-serif;
     background-image: url("./images/hostel.jpg");
+    /* filter: blur(5px); */
     background-size: cover;
     background-repeat: no-repeat;
 }
