@@ -1,27 +1,23 @@
 const Hero=()=>{
-  return <main className="Hero ">
-    <div className="content">
-      <h1>YOUR FEET DESERVE THE BEST</h1>
-      <p>YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR SHOES.YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR SHOES.</p>
+  return   <main className="Hero">
+    <div className="content" >
+      <h1>SIMPLIFYING HOSTEL LIFE, ONE CLICK AWAY</h1>
+      <p>TRANSFORM YOUR HOSTEL EXPERIENCE – ACCESS EVERYTHING FROM ATTENDANCE TO COMPLAINTS IN ONE PLACE, MAKING HOSTEL LIFE SMOOTHER, SMARTER, AND MORE CONVENIENT THAN EVER.</p>
 
       <div className="button">
-        <button>Shop Now</button>
-        <button className="trans">Category</button>
+        <button>SIGN IN</button>
+        <button className="trans">SIGN UP</button>
       </div>
 <div className="shopping">
   <p>
-  Also Available On
+  Also Available on Mobile App
   </p>
   <div className="brandIcon">
-    <img src="/images/amazon.png" alt="amazon-logo"/>
-    <img src="/images/flipkart.png" alt="flipkart"/>
+    <img src="/images/mai.png" alt="amazon-logo" className="app"/>
     </div>
 
 
 </div>
-    </div>
-    <div className="image">
-    <img src="/images/shoe_image.png" alt="shoe-image"/>
     </div>
   </main>
 }

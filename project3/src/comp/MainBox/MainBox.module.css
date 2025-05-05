@@ -1,0 +1,16 @@
+.dicebox{
+  padding-left: 129px;
+  padding-top: 180px;
+  padding-right: 0;
+  display: flex;
+  justify-content:space-around;
+}
+.gameon{
+  font-size:50px;
+  font-weight:1000;
+  width: 528px;
+  height: 144px;
+  display: flex;
+  flex-direction: column;
+  margin-right: 0px;
+}
